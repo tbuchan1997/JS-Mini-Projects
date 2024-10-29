@@ -1,4 +1,13 @@
 
+/* Colour palette variables */
+:root {
+    --primary-background: #1A1A2E; /*Dark Indigo*/
+    --secondary-background: #16213E; /*Midnight Blue*/
+    --accent-color: #E94560; /*Crimson*/
+    --text-color: #EDEDED; /*Light Gray*/
+    --highlight-color: #0F3460 /*Dark Blue)*/
+}    
+/* Global styles*/
 
 body {
     font-family: Arial, sans-serif;
